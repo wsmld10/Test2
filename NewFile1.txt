@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-aaabbb
+aaabbbcccdddeeedddeeefffmmmlllmmm
 ggg
-=======
 tt
->>>>>>> f0011df4bf7816e6840d327e3835b1dda8f7e4d9
